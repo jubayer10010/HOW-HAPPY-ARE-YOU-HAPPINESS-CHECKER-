@@ -1,0 +1,30 @@
+Mood Tracker
+​A simple and engaging 14-day mood tracker written in Python. This project began as a command-line script to demonstrate fundamental programming concepts and has evolved to include a graphical interface.
+​Project Files
+​mood_tracker.py: The original command-line version of the mood tracker, written by the repository owner. It handles all core logic, including user input, mood scoring, and calculating results.
+​mood_tracker_gui.py: A second version of the project that adds a graphical user interface (GUI). This file was created with assistance from Gemini, a large language model.
+​A Coder's Mood
+​In lines of Python, a tracker waits,
+To chart the course of daily fates.
+A loop begins, a fortnight's span,
+To understand a user's plan.
+​Each morning asks, with gentle phrase,
+For feelings lived through passing days,
+A simple choice, an emoji's plea,
+To mark the soul's brief history.
+​If ☺️ shines, the score is ten,
+A happy mood, again and again.
+But should a 😭 bring a tear,
+A single point is marked with fear.
+​The code receives, it understands,
+And saves the score with patient hands,
+A list of numbers, one by one,
+'Til the fourteen days are done.
+​Then, at the end, a total sum,
+A mood report for all to come.
+An average heart, a happiness score,
+That shows the feeling at the core.
+​From Very Happy down to a sigh,
+A final note against the sky.
+A simple script, a digital friend,
+From start to finish, to the end.
